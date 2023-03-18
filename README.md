@@ -1,7 +1,7 @@
 ### Hello there! I'm Jeremiah, a first year student at UC Irvine's Donald Bren School of Information and Computer Sciences.  
 
 
-Currently, I'm Undeclared looking towards majoring in Computer Science.  
+Currently, I'm **Undeclared** looking towards majoring in **Computer Science.**
 
 
 Want to connect? Send me an [email](mailto:soejeremiah@gmail.com)!
