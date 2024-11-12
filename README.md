@@ -1,3 +1,17 @@
+<h1 align="center">hey there, i'm jeremiah <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+
+**about me**
+- i'm a third year computer science student at UC Irvine's Donald Bren School of Information and Computer Sciences
+
+<br><br>
+
+ 
+
+<div>
+  <img src=https://github-readme-stats.vercel.app/api?username=fiveminus1&theme=tokyonight>
+</div>
+
+<!--
 ### Hello there! I'm Jeremiah, a first year student at UC Irvine's Donald Bren School of Information and Computer Sciences.  
 
 
@@ -15,7 +29,7 @@ Want to connect? Send me an [email](mailto:soejeremiah@gmail.com)!
 </a> 
 
 
-<!--
+
 **fiveminus1/fiveminus1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
