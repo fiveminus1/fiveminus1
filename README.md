@@ -1,4 +1,4 @@
-<h1 align="center">hey there, i'm jeremiah <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1>hey there, i'm jeremiah <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 **about me**
 - i'm a third year computer science student at UC Irvine's Donald Bren School of Information and Computer Sciences
